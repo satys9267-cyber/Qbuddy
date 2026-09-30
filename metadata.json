@@ -1,0 +1,6 @@
+{
+  "name": "QBuddy — Drone Cadastral Analytics & Mission Control",
+  "description": "AI-powered urban cadastral parcel extraction, real-time drone tracking, 3D pathing, dispatch operations, and verified field ground-truthing for Smart India Hackathon.",
+  "requestFramePermissions": ["camera", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
